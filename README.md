@@ -63,7 +63,7 @@ pip install mysql-connector-python tabulate
 	3.	Update DB credentials inside the program
 	4.	Run:
 
-Library_Managaement_System.py
+Library_Management_System.py
 
 
 # Future Improvements
